@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\bin\Debug\MAS_Variance_Fixer.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\bin\Debug\MAS_Variance_Fixer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\bin\Debug\MAS_Variance_Fixer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_Variance_Fixer\MAS_Variance_Fixer\obj\Debug\MAS_Variance_Fixer.pdb

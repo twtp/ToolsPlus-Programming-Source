@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\bin\Debug\ProjectTrueValue.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\bin\Debug\ProjectTrueValue.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\bin\Debug\ProjectTrueValue.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.debugFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProjectTrueValue\ProjectTrueValue\obj\Debug\ProjectTrueValue.tvFrm.resources

@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\synchronize_usps_tables\synchronize_usps_tables\bin\Debug\synchronize_usps_tables.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\synchronize_usps_tables\synchronize_usps_tables\bin\Debug\synchronize_usps_tables.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\synchronize_usps_tables.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\synchronize_usps_tables.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\synchronize_usps_tables.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\synchronize_usps_tables.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\synchronize_usps_tables\synchronize_usps_tables\bin\Debug\synchronize_usps_tables.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\synchronize_usps_tables\synchronize_usps_tables\bin\Debug\synchronize_usps_tables.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\synchronize_usps_tables\synchronize_usps_tables\obj\Debug\ResolveAssemblyReference.cache

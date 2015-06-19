@@ -1,0 +1,11 @@
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Object.BackEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Object.BackEnd.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Database.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Object.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Base.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Database.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\bin\Release\TP.Object.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\obj\Release\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\obj\Release\TP.Object.BackEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.BackEnd\obj\Release\TP.Object.BackEnd.pdb

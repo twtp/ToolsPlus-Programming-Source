@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{295EA715-0907-4187-986D-6ADCA78F25B6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TP.Warehousing.White</RootNamespace>
+    <AssemblyName>TP.Warehousing.White</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Device.CharacterStrip.cs" />
+    <Compile Include="Device.Carousel.cs" />
+    <Compile Include="Device.DeviceDefinition.cs" />
+    <Compile Include="Device.Enums.cs" />
+    <Compile Include="Device.Interfaces.cs" />
+    <Compile Include="Device.LightDevice.cs" />
+    <Compile Include="Device.LightTree.cs" />
+    <Compile Include="Device.Operator.cs" />
+    <Compile Include="Device.SortBar.cs" />
+    <Compile Include="Device.SurfaceDisplay.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Interface.Enums.cs" />
+    <Compile Include="Interface.Message.Base.cs" />
+    <Compile Include="Interface.Message.Incoming.CarouselFaultsReply.cs" />
+    <Compile Include="Interface.Message.Incoming.CarouselStatusReply.cs" />
+    <Compile Include="Interface.Message.Incoming.LEDCleared.cs" />
+    <Compile Include="Interface.Message.Incoming.ASCIIText.cs" />
+    <Compile Include="Interface.Message.Outgoing.CarouselFaultsQuery.cs" />
+    <Compile Include="Interface.Message.Outgoing.CarouselHalt.cs" />
+    <Compile Include="Interface.Message.Outgoing.CarouselMove.cs" />
+    <Compile Include="Interface.CIC332.cs" />
+    <Compile Include="Device.BaseDevice.cs" />
+    <Compile Include="Interface.Events.cs" />
+    <Compile Include="Interface.Message.Outgoing.CarouselStatusQuery.cs" />
+    <Compile Include="Interface.Message.Incoming.LEDActivated.cs" />
+    <Compile Include="Interface.Message.Outgoing.LEDClearSingle.cs" />
+    <Compile Include="Interface.Message.Outgoing.LEDIlluminate.cs" />
+    <Compile Include="Interface.Message.Outgoing.LEDClearAll.cs" />
+    <Compile Include="Pod.DeviceListing.cs" />
+    <Compile Include="Pod.Events.cs" />
+    <Compile Include="Pod.Controller.cs" />
+    <Compile Include="Pod.LinkageListEntry.cs" />
+    <Compile Include="Pod.LinkageListing.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TP.Base\TP.Base.csproj">
+      <Project>{952EE762-6F19-405B-989B-922D3493342D}</Project>
+      <Name>TP.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

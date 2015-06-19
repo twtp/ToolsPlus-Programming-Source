@@ -1,0 +1,34 @@
+//This is an example external c# script that will get compiled and ran in real-time inside our software.
+//Anyways, we place a tag inside our *double slashed* commented lines of code, say:
+//[-[NAME-Demo External Script]-][-[DESC-This external script will compile in realtime and run as an example of what we can acheive inside the new POINV.]-][-[Enabled-NO]-]
+//
+//Now we parse this "header" and split by "[-[" using index 1 then split that result by "]-]" to get your name
+//tag. Now we split that one more time by '-' using index 1 to get the name to add to our checkedListBox. We take
+//the original split of "[-[" but using index 2 this time and splitting that result by "]-]" to get the
+//description tag. Obviously split that by '-' using index 1 to get the description. Same for the enabled tag,
+//looking for "YES" or "NO". Done deal.
+//
+//
+//Then the fun part... 
+
+using System;
+using System.Windows.Forms;
+public struct PriceComparisonReturnData
+{
+	public string ItemNumber;
+	public decimal ItemPrice;
+
+
+}
+  public class CSharpScriptClass
+  {
+	public PriceComparisonReturnData TestMethod(string itemNumber)
+	{
+
+		PriceComparisonReturnData testReturn = new PriceComparisonReturnData();
+		testReturn.ItemNumber = itemNumber;
+		MessageBox.Show(itemNumber);
+		testReturn.ItemPrice = decimal.Parse("0.00");
+		return testReturn;
+	}
+  }

@@ -1,0 +1,9 @@
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Object.FrontEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Object.FrontEnd.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Object.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Object.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\obj\Debug\TP.Object.FrontEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\obj\Debug\TP.Object.FrontEnd.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Object.FrontEnd\bin\Debug\TP.Base.pdb

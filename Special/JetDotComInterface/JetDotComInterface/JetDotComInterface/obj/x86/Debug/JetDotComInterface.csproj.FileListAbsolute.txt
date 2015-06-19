@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\bin\Debug\JetDotComInterface.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\bin\Debug\JetDotComInterface.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.OrderView.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\JetDotComInterface\JetDotComInterface\JetDotComInterface\obj\x86\Debug\JetDotComInterface.ItemViewer.resources

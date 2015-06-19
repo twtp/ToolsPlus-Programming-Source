@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\bin\Debug\WiserProductFeedV2.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\bin\Debug\WiserProductFeedV2.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeedV2\WiserProductFeedV2\WiserProductFeedV2\obj\x86\Debug\WiserProductFeedV2.csprojResolveAssemblyReference.cache

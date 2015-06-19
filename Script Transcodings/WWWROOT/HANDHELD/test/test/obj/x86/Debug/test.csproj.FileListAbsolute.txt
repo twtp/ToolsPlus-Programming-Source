@@ -1,0 +1,4 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\test\test\bin\Debug\test.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\test\test\bin\Debug\test.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\test\test\obj\x86\Debug\test.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\test\test\obj\x86\Debug\test.3X3.pdb

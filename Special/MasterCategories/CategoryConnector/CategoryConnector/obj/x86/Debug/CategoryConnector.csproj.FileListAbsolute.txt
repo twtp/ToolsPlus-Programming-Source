@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\bin\Debug\CategoryConnector.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\bin\Debug\CategoryConnector.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\CategoryConnector\CategoryConnector\obj\x86\Debug\CategoryConnector.csprojResolveAssemblyReference.cache

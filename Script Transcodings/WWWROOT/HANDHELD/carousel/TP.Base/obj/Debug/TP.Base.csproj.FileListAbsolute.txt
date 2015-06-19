@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\bin\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\bin\Debug\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\obj\Debug\TP.Base.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\obj\Debug\TP.Base.Splash.SplashForm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\obj\Debug\TP.Base.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\obj\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Base\obj\Debug\TP.Base.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\bin\Debug\TPTransferAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\bin\Debug\TPTransferAlert.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\obj\Debug\TPTransferAlert.TPTransferAlert.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\obj\Debug\TPTransferAlert.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\obj\Debug\TPTransferAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTransferAlert\TPTransferAlert\obj\Debug\TPTransferAlert.pdb

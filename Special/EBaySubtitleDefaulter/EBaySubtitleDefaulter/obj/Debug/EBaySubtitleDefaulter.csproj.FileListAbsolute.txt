@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\bin\Debug\EBaySubtitleDefaulter.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\bin\Debug\EBaySubtitleDefaulter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\bin\Debug\EBaySubtitleDefaulter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBaySubtitleDefaulter\EBaySubtitleDefaulter\obj\Debug\EBaySubtitleDefaulter.pdb

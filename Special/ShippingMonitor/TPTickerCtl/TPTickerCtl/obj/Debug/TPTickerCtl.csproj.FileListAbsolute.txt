@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\bin\Debug\TPTickerCtl.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\bin\Debug\TPTickerCtl.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.TPTicker.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPTickerCtl\TPTickerCtl\obj\Debug\TPTickerCtl.csprojResolveAssemblyReference.cache

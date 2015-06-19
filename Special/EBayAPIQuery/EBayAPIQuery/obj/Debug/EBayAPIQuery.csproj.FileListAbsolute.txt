@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\bin\Debug\EBayAPIQuery.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\bin\Debug\EBayAPIQuery.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\bin\Debug\EBayAPIQuery.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayAPIQuery\EBayAPIQuery\obj\Debug\EBayAPIQuery.pdb

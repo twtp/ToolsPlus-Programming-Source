@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\bin\Debug\WarehouseHelper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\bin\Debug\WarehouseHelper.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\obj\x86\Debug\WarehouseHelper.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\obj\x86\Debug\WarehouseHelper.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\obj\x86\Debug\WarehouseHelper.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\obj\x86\Debug\WarehouseHelper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WarehouseHelper\WarehouseHelper\WarehouseHelper\obj\x86\Debug\WarehouseHelper.pdb

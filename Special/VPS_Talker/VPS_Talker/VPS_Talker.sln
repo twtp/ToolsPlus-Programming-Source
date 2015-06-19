@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPS_Talker", "VPS_Talker\VPS_Talker.csproj", "{2C4BDB69-52C1-4801-82DB-28002BD7BF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4BDB69-52C1-4801-82DB-28002BD7BF13}.Debug|x86.ActiveCfg = Debug|x86
+		{2C4BDB69-52C1-4801-82DB-28002BD7BF13}.Debug|x86.Build.0 = Debug|x86
+		{2C4BDB69-52C1-4801-82DB-28002BD7BF13}.Release|x86.ActiveCfg = Release|x86
+		{2C4BDB69-52C1-4801-82DB-28002BD7BF13}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

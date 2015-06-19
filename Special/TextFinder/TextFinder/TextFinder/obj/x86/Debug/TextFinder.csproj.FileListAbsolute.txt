@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\bin\Debug\TextFinder.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\bin\Debug\TextFinder.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\obj\x86\Debug\TextFinder.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\obj\x86\Debug\TextFinder.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\obj\x86\Debug\TextFinder.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\obj\x86\Debug\TextFinder.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TextFinder\TextFinder\TextFinder\obj\x86\Debug\TextFinder.pdb

@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\bin\Debug\VPS_Talker.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\bin\Debug\VPS_Talker.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VPS_Talker\VPS_Talker\VPS_Talker\obj\x86\Debug\VPS_Talker.pdb

@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\salesinfofromfiles.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\salesinfofromfiles.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\salesinfofromfiles.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\bin\Debug\salesinfofromfiles.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\bin\Debug\salesinfofromfiles.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\salesinfofromfiles.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\salesinfofromfiles.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\salesinfofromfiles\salesinfofromfiles\obj\x86\Debug\SQLCalls.SQLCalls.resources

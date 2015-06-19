@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\obj\x86\Debug\SearsAttributes.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\obj\x86\Debug\SearsAttributes.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\obj\x86\Debug\SearsAttributes.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\bin\Debug\SearsAttributes.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\bin\Debug\SearsAttributes.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\obj\x86\Debug\SearsAttributes.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsAttributes\SearsAttributes\obj\x86\Debug\SearsAttributes.pdb

@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\bin\Debug\WisePricer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\bin\Debug\WisePricer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceWiserInterface\PriceWiser\PriceWiser\obj\x86\Debug\WisePricer.csprojResolveAssemblyReference.cache

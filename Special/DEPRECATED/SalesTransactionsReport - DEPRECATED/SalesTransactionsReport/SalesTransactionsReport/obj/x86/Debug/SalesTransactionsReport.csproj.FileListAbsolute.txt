@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\bin\Debug\SalesTransactionsReport.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\bin\Debug\SalesTransactionsReport.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\bin\Debug\SalesTransactionsReport.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\obj\x86\Debug\SalesTransactionsReport.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SalesTransactionsReport\SalesTransactionsReport\SalesTransactionsReport\bin\Debug\Renci.SshNet.dll

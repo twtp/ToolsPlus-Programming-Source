@@ -1,0 +1,5 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarySQL.3X3\arbitrarySQL.3X3\bin\Debug\arbitrarySQL.3X3.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarySQL.3X3\arbitrarySQL.3X3\bin\Debug\arbitrarySQL.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarySQL.3X3\arbitrarySQL.3X3\bin\Debug\arbitrarySQL.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarySQL.3X3\arbitrarySQL.3X3\obj\x86\Debug\arbitrarySQL.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarySQL.3X3\arbitrarySQL.3X3\obj\x86\Debug\arbitrarySQL.3X3.pdb

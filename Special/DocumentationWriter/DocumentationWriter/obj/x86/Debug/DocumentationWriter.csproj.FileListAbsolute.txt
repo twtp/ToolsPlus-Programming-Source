@@ -1,0 +1,13 @@
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\bin\Debug\DocumentationWriter.exe.config
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.csprojResolveAssemblyReference.cache
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.Form1.resources
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.Properties.Resources.resources
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.csproj.GenerateResource.Cache
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\bin\Debug\DocumentationWriter.exe
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\bin\Debug\DocumentationWriter.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.exe
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.Form2.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\DocumentationWriter\DocumentationWriter\bin\Debug\DocumentationWriter.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\DocumentationWriter\DocumentationWriter\obj\x86\Debug\DocumentationWriter.pdb

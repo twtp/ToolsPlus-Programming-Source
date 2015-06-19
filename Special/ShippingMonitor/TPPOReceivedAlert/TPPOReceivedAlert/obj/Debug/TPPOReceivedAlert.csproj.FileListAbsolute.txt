@@ -1,0 +1,6 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\bin\Debug\TPPOReceivedAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\bin\Debug\TPPOReceivedAlert.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\obj\Debug\TPPOReceivedAlert.TPPOReceivedAlert.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\obj\Debug\TPPOReceivedAlert.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\obj\Debug\TPPOReceivedAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPPOReceivedAlert\TPPOReceivedAlert\obj\Debug\TPPOReceivedAlert.pdb

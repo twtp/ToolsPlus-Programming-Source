@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\bin\Debug\MasterCategoryConnectors.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\bin\Debug\MasterCategoryConnectors.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\bin\Debug\MasterCategoryConnectors.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategoryConnectors\MasterCategoryConnectors\obj\Debug\MasterCategoryConnectors.pdb

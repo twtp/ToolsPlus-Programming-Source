@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\bin\Debug\idk.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\bin\Debug\idk.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\bin\Debug\idk.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\idk\idk\idk\obj\x86\Debug\idk.Form1.resources

@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\bin\Debug\WisePricerCSVCreator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\bin\Debug\WisePricerCSVCreator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CSVMakers\WisePricer\WisePricerCSVCreator\WisePricerCSVCreator\obj\x86\Debug\WisePricerCSVCreator.CSVDesigner.resources

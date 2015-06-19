@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\bin\Debug\BonusItemManager.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\bin\Debug\BonusItemManager.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\bin\Debug\BonusItemManager.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.AddBonus.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\BonusItemManager\BonusItemManager\obj\Debug\BonusItemManager.EditBonus.resources

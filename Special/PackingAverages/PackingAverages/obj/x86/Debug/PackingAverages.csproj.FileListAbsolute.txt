@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\bin\Debug\PackingAverages.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\bin\Debug\PackingAverages.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PackingAverages\PackingAverages\obj\x86\Debug\PackingAverages.pdb

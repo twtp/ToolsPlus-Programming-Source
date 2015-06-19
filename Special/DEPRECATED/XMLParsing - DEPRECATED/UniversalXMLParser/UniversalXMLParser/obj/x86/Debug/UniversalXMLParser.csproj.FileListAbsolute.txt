@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\obj\x86\Debug\UniversalXMLParser.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\obj\x86\Debug\UniversalXMLParser.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\obj\x86\Debug\UniversalXMLParser.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\bin\Debug\UniversalXMLParser.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\bin\Debug\UniversalXMLParser.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\obj\x86\Debug\UniversalXMLParser.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\XMLParsing\UniversalXMLParser\UniversalXMLParser\obj\x86\Debug\UniversalXMLParser.pdb

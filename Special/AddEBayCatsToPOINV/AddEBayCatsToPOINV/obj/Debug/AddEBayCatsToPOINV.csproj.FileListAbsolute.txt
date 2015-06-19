@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\bin\Debug\AddEBayCatsToPOINV.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\bin\Debug\AddEBayCatsToPOINV.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\bin\Debug\AddEBayCatsToPOINV.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AddEBayCatsToPOINV\AddEBayCatsToPOINV\obj\Debug\AddEBayCatsToPOINV.pdb

@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\bin\Debug\TrueValueEmployeeManager.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\bin\Debug\TrueValueEmployeeManager.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\bin\Debug\TrueValueEmployeeManager.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TrueValue\TrueValueEmployeeManager\TrueValueEmployeeManager\obj\Debug\TrueValueEmployeeManager.pdb

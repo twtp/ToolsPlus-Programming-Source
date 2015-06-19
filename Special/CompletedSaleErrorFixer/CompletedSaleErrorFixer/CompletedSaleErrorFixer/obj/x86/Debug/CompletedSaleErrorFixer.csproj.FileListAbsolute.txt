@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\bin\Debug\CompletedSaleErrorFixer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\bin\Debug\CompletedSaleErrorFixer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompletedSaleErrorFixer\CompletedSaleErrorFixer\CompletedSaleErrorFixer\obj\x86\Debug\CompletedSaleErrorFixer.csprojResolveAssemblyReference.cache

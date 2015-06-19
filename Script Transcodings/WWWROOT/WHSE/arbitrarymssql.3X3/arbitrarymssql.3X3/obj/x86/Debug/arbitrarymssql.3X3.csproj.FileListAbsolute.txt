@@ -1,0 +1,4 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarymssql.3X3\arbitrarymssql.3X3\bin\Debug\arbitrarymssql.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarymssql.3X3\arbitrarymssql.3X3\bin\Debug\arbitrarymssql.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarymssql.3X3\arbitrarymssql.3X3\obj\x86\Debug\arbitrarymssql.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\arbitrarymssql.3X3\arbitrarymssql.3X3\obj\x86\Debug\arbitrarymssql.3X3.pdb

@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\bin\Debug\WiserProductFeed.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\bin\Debug\WiserProductFeed.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.WiserMainFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.csproj.ResolveComReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\bin\Debug\WiserProductFeed.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\WiserProductFeed\WiserProductFeed\WiserProductFeed\obj\x86\Debug\WiserProductFeed.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\bin\Debug\ItemConditionInserter.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\bin\Debug\ItemConditionInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\bin\Debug\ItemConditionInserter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ItemConditionInserter\ItemConditionInserter\obj\Debug\ItemConditionInserter.pdb

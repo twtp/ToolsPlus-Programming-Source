@@ -1,0 +1,4 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\PAYPAL\PayPalAPI\PayPalAPI\bin\Debug\PayPalAPI.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\PAYPAL\PayPalAPI\PayPalAPI\bin\Debug\PayPalAPI.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\PAYPAL\PayPalAPI\PayPalAPI\obj\x86\Debug\PayPalAPI.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\PAYPAL\PayPalAPI\PayPalAPI\obj\x86\Debug\PayPalAPI.pdb

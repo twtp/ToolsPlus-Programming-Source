@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\bin\Debug\IISLogReader.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\bin\Debug\IISLogReader.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\bin\Debug\IISLogReader.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\IISLogReader\IISLogReader\obj\Debug\IISLogReader.pdb

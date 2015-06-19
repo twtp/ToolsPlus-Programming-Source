@@ -1,0 +1,6 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\bin\Debug\TPClock.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\bin\Debug\TPClock.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\obj\Debug\TPClock.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\obj\Debug\TPClock.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\obj\Debug\TPClock.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPClock\TPClock\obj\Debug\TPClock.TPClock.resources

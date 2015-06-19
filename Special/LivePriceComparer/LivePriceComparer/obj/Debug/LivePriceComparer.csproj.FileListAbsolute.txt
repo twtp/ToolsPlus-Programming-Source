@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\LivePriceComparer.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\LivePriceComparer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\bin\Debug\FollowMePricing.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\bin\Debug\FollowMePricing.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\bin\Debug\FollowMePricing.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\FollowMePricing.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\FollowMePricing.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\FollowMePricing.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\LivePriceComparer\LivePriceComparer\obj\Debug\LivePriceComparer.Form1.resources

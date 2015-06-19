@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\bin\Debug\AlertStandalone.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\bin\Debug\AlertStandalone.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.SQLCalls.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\bin\Debug\AlertStandalone.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINV-CSHARP\AlertStandalone\AlertStandalone\obj\x86\Debug\AlertStandalone.settingsFrm.resources

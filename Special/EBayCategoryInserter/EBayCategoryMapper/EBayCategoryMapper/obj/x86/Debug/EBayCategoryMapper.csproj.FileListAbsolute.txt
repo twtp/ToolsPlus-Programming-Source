@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\bin\Debug\EBayCategoryMapper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\bin\Debug\EBayCategoryMapper.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryMapper\EBayCategoryMapper\obj\x86\Debug\EBayCategoryMapper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\bin\Debug\FeedGenerator.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.csproj.ResolveComReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\bin\Debug\FeedGenerator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\bin\Debug\FeedGenerator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.DataBackend.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.ModifyLine.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedGenerator\FeedGenerator\FeedGenerator\obj\x86\Debug\FeedGenerator.NewFeed.resources

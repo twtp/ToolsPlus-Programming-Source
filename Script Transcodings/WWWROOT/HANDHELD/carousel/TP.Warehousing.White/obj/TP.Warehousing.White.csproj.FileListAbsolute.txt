@@ -1,0 +1,21 @@
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Base.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Release\TP.Warehousing.White.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Release\TP.Warehousing.White.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Release\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\bin\Release\TP.Base.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Release\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Release\TP.Warehousing.White.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Warehousing.White\obj\Release\TP.Warehousing.White.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\bin\Debug\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.pdb

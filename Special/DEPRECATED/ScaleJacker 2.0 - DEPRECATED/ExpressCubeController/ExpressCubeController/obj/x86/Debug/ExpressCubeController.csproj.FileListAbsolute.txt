@@ -1,0 +1,15 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\bin\Debug\ExpressCubeController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\bin\Debug\ExpressCubeController.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\bin\Debug\ExpressCubeController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\bin\Debug\ExpressCubeController.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ScaleJacker 2.0\ExpressCubeController\ExpressCubeController\obj\x86\Debug\ExpressCubeController.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+TransferQueueMain = 210, 199, 971, 658, , 57, 19, 818, 478, C
+TransferQueueAddEditItem = 118, 5, 879, 457, C, 69, 175, 830, 634, C
+ComboBoxDropDownResize = 44, 44, 805, 503, C
+AutoComplete = 22, 22, 783, 481, C
+TransferQueueShared = 9, 149, 770, 608, 

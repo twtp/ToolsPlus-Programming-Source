@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\bin\Debug\KirksEmptyLineRemover.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\bin\Debug\KirksEmptyLineRemover.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\KirksEmptyLineRemover\KirksEmptyLineRemover\KirksEmptyLineRemover\obj\x86\Debug\KirksEmptyLineRemover.csprojResolveAssemblyReference.cache

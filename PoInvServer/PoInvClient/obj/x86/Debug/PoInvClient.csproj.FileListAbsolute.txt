@@ -1,0 +1,16 @@
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\PoInvClient.Form1.resources
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\PoInvClient.Properties.Resources.resources
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\PoInvClient.exe
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\PoInvClient.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Object.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Object.FrontEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Object.FrontEnd.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Object.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\PoInvClient.exe
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\PoInvClient.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\obj\x86\Debug\PoInvClient.MASExportMain.resources
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvClient\bin\Debug\TP.Base.pdb

@@ -1,0 +1,28 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe.config
+G:\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe.config
+G:\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.exe
+G:\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.pdb
+G:\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.csprojResolveAssemblyReference.cache
+G:\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe
+G:\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe.config
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.exe
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.csprojResolveAssemblyReference.cache
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe.manifest
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.application
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.TrustInfo.xml
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.exe.manifest
+C:\Users\MPGMOFO\Documents\ToolsPlus\Scripts\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.application
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.exe.manifest
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\bin\Debug\emailproxy.3X3.application
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.TrustInfo.xml
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.exe.manifest
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\DBGATEWAY\emailproxy.3X3\emailproxy.3X3\obj\x86\Debug\emailproxy.3X3.application

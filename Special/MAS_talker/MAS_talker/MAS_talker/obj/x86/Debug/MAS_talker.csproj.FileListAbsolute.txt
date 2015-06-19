@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\bin\Debug\MAS_talker.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\bin\Debug\MAS_talker.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\SQLCalls.MASCalls.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\bin\Debug\MAS_talker.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MAS_talker\MAS_talker\MAS_talker\obj\x86\Debug\MAS_talker.csproj.ResolveComReference.cache

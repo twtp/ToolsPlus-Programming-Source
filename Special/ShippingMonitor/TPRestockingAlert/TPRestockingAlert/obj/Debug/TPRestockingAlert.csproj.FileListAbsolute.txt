@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\bin\Debug\TPRestockingAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\bin\Debug\TPRestockingAlert.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\obj\Debug\TPRestockingAlert.TPRestockingAlert.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\obj\Debug\TPRestockingAlert.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\obj\Debug\TPRestockingAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\obj\Debug\TPRestockingAlert.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPRestockingAlert\TPRestockingAlert\obj\Debug\TPRestockingAlert.csprojResolveAssemblyReference.cache

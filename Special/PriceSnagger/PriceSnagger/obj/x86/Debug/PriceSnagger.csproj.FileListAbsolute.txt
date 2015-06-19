@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\bin\Debug\PriceSnagger.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\bin\Debug\PriceSnagger.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\bin\Debug\PriceSnagger.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.SQLCalls.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.Form2.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceSnagger\PriceSnagger\obj\x86\Debug\PriceSnagger.csprojResolveAssemblyReference.cache

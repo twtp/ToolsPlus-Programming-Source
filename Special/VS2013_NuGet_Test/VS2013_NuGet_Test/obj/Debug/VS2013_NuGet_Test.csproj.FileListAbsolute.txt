@@ -1,0 +1,13 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\VS2013_NuGet_Test.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\VS2013_NuGet_Test.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\VS2013_NuGet_Test.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\MetroFramework.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\TPRestockingAlert.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\bin\Debug\TPRestockingAlert.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\VS2013_NuGet_Test\VS2013_NuGet_Test\obj\Debug\VS2013_NuGet_Test.pdb

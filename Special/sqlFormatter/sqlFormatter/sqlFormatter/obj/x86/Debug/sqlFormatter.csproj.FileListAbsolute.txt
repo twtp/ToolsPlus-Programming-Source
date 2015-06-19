@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\bin\Debug\sqlFormatter.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\bin\Debug\sqlFormatter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\bin\Debug\sqlFormatter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\sqlFormatter\sqlFormatter\sqlFormatter\obj\x86\Debug\sqlFormatter.pdb

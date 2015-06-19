@@ -1,0 +1,5 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\New folder\BackupDriveCleaner\BackupDriveCleaner\bin\Debug\BackupDriveCleaner.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\New folder\BackupDriveCleaner\BackupDriveCleaner\bin\Debug\BackupDriveCleaner.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\New folder\BackupDriveCleaner\BackupDriveCleaner\obj\x86\Debug\BackupDriveCleaner.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\New folder\BackupDriveCleaner\BackupDriveCleaner\obj\x86\Debug\BackupDriveCleaner.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\New folder\BackupDriveCleaner\BackupDriveCleaner\bin\Debug\BackupDriveCleaner.exe.config

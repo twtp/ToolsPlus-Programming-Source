@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\bin\Debug\EBayItemSpecifics.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\bin\Debug\EBayItemSpecifics.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayItemSpecifics\EBayItemSpecifics\EBayItemSpecifics\obj\x86\Debug\EBayItemSpecifics.csproj.ResolveComReference.cache

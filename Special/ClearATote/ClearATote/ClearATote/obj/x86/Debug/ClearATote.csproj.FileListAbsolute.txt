@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\bin\Debug\ClearATote.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\bin\Debug\ClearATote.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\obj\x86\Debug\ClearATote.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\obj\x86\Debug\ClearATote.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\obj\x86\Debug\ClearATote.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\obj\x86\Debug\ClearATote.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ClearATote\ClearATote\ClearATote\obj\x86\Debug\ClearATote.pdb

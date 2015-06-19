@@ -1,0 +1,8 @@
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Documents and Settings\tamer.oz\Desktop\Barcode\Barcode\obj\Debug\Barcode.frmTest.resources

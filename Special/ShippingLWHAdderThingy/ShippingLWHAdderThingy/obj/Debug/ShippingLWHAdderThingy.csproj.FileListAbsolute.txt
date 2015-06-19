@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\bin\Debug\ShippingLWHAdderThingy.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\bin\Debug\ShippingLWHAdderThingy.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\bin\Debug\ShippingLWHAdderThingy.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingLWHAdderThingy\ShippingLWHAdderThingy\obj\Debug\ShippingLWHAdderThingy.pdb

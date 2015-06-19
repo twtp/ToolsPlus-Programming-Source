@@ -1,0 +1,5 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\freightquote\freightquote\bin\Debug\freightquote.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\freightquote\freightquote\bin\Debug\freightquote.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\freightquote\freightquote\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\freightquote\freightquote\obj\Debug\freightquote.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\WHSE\freightquote\freightquote\obj\Debug\freightquote.3X3.pdb

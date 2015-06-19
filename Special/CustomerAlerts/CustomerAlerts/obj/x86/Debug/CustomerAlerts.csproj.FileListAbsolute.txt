@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\obj\x86\Debug\CustomerAlerts.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\obj\x86\Debug\CustomerAlerts.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\obj\x86\Debug\CustomerAlerts.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\bin\Debug\CustomerAlerts.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\bin\Debug\CustomerAlerts.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\obj\x86\Debug\CustomerAlerts.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CustomerAlerts\CustomerAlerts\obj\x86\Debug\CustomerAlerts.pdb

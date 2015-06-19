@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\bin\Debug\FeedDifferences.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\bin\Debug\FeedDifferences.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\obj\x86\Debug\FeedDifferences.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\obj\x86\Debug\FeedDifferences.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\obj\x86\Debug\FeedDifferences.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\obj\x86\Debug\FeedDifferences.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\FeedDifferences\FeedDifferences\FeedDifferences\obj\x86\Debug\FeedDifferences.pdb

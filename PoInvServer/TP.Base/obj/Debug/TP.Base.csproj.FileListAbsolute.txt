@@ -1,0 +1,5 @@
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Base\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Base\bin\Debug\TP.Base.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Base\obj\Debug\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\TP.Base\obj\Debug\TP.Base.pdb

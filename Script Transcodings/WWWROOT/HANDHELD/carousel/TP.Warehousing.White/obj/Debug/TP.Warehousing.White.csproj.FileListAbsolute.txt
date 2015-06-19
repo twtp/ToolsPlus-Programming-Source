@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\bin\Debug\TP.Warehousing.White.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\bin\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\bin\Debug\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\HANDHELD\carousel\TP.Warehousing.White\obj\Debug\TP.Warehousing.White.pdb

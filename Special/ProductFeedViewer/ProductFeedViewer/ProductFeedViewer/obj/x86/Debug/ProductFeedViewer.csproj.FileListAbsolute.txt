@@ -1,0 +1,11 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\bin\Debug\ProductFeedViewer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\bin\Debug\ProductFeedViewer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.csproj.ResolveComReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\obj\x86\Debug\ProductFeedViewer.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\bin\Debug\ProductFeedViewer.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ProductFeedViewer\ProductFeedViewer\ProductFeedViewer\bin\Debug\Renci.SshNet.dll

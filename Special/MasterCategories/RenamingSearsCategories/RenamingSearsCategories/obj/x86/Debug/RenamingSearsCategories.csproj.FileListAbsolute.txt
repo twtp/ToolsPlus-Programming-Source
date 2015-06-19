@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\bin\Debug\RenamingSearsCategories.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\bin\Debug\RenamingSearsCategories.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\obj\x86\Debug\RenamingSearsCategories.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\obj\x86\Debug\RenamingSearsCategories.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\obj\x86\Debug\RenamingSearsCategories.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\obj\x86\Debug\RenamingSearsCategories.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\RenamingSearsCategories\RenamingSearsCategories\obj\x86\Debug\RenamingSearsCategories.pdb

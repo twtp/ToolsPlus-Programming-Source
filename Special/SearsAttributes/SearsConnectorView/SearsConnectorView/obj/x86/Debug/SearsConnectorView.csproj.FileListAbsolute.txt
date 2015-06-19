@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\bin\Debug\SearsConnectorView.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\bin\Debug\SearsConnectorView.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.SearsConnectorFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributes\SearsConnectorView\SearsConnectorView\obj\x86\Debug\SearsConnectorView.csprojResolveAssemblyReference.cache

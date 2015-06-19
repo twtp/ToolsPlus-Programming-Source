@@ -1,0 +1,6 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\bin\Debug\RealTimePricesConsole.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\obj\Debug\RealTimePricesConsole.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\bin\Debug\RealTimePricesConsole.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\bin\Debug\RealTimePricesConsole.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\obj\Debug\RealTimePricesConsole.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RealTimePricesConsole\RealTimePricesConsole\obj\Debug\RealTimePricesConsole.pdb

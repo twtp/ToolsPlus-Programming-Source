@@ -1,0 +1,4 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PhoneValidation\PhoneValidation\PhoneValidation\bin\Debug\PhoneValidation.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PhoneValidation\PhoneValidation\PhoneValidation\bin\Debug\PhoneValidation.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PhoneValidation\PhoneValidation\PhoneValidation\obj\x86\Debug\PhoneValidation.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PhoneValidation\PhoneValidation\PhoneValidation\obj\x86\Debug\PhoneValidation.pdb

@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\bin\Debug\POINVupdater.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\bin\Debug\POINVupdater.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\obj\x86\Debug\POINVupdater.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\POINVupdater\POINVupdater\POINVupdater\bin\Debug\POINVupdater.exe.config

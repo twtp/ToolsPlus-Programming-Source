@@ -1,0 +1,14 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\bin\Debug\ShippingMonitor.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\bin\Debug\ShippingMonitor.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.Form2.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\bin\Debug\ShippingMonitor.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.SQLCalls.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\obj\x86\Debug\ShippingMonitor.SplashScreenFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\bin\Debug\TPTickerCtl.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\ShippingMonitor\bin\Debug\TPTickerCtl.pdb

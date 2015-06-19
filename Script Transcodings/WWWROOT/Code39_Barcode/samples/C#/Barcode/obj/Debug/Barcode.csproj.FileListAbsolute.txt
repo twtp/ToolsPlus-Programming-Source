@@ -1,0 +1,16 @@
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\Barcode.exe
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\Barcode.pdb
+C:\Users\Tamer\Downloads\Barcode\Barcode\bin\Debug\Barcode.exe
+C:\Users\Tamer\Downloads\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\Barcode.frmTest.resources
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tamer\Downloads\Barcode\Barcode\obj\Debug\ResGen.write.1.tlog
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\obj\Debug\Barcode.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\obj\Debug\Barcode.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\bin\Debug\Barcode.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\bin\Debug\Barcode.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\obj\Debug\Barcode.frmTest.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\samples\C#\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache

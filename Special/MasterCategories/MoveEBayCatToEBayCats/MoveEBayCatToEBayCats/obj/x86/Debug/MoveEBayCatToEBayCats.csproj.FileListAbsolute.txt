@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\bin\Debug\MoveEBayCatToEBayCats.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\bin\Debug\MoveEBayCatToEBayCats.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\obj\x86\Debug\MoveEBayCatToEBayCats.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\obj\x86\Debug\MoveEBayCatToEBayCats.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\obj\x86\Debug\MoveEBayCatToEBayCats.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\obj\x86\Debug\MoveEBayCatToEBayCats.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCategories\MoveEBayCatToEBayCats\MoveEBayCatToEBayCats\obj\x86\Debug\MoveEBayCatToEBayCats.pdb

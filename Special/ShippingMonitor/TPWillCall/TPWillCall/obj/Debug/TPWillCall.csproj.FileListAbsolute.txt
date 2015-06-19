@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\obj\Debug\TPWillCall.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\bin\Debug\TPWillCall.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\bin\Debug\TPWillCall.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\obj\Debug\TPWillCall.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\obj\Debug\TPWillCall.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\obj\Debug\TPWillCall.TPWillCall.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\TPWillCall\TPWillCall\obj\Debug\TPWillCall.csprojResolveAssemblyReference.cache

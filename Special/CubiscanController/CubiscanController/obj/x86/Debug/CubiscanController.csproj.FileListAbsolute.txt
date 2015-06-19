@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\bin\Debug\CubiscanController.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\bin\Debug\CubiscanController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\bin\Debug\CubiscanController.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CubiscanController\CubiscanController\obj\x86\Debug\CubiscanController.pdb

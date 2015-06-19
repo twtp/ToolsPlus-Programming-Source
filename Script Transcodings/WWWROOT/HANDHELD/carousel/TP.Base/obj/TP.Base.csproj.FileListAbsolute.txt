@@ -1,0 +1,24 @@
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\bin\Debug\TP.Base.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\TP.Base.Properties.Resources.resources
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\TP.Base.Splash.SplashForm.resources
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\TP.Base.csproj.GenerateResource.Cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Debug\TP.Base.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\bin\Release\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\bin\Release\TP.Base.pdb
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\TP.Base.Properties.Resources.resources
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\TP.Base.Splash.SplashForm.resources
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\TP.Base.csproj.GenerateResource.Cache
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\TP.Base.dll
+C:\Users\briandonorfio\Documents\checkout\c#\ManualWarehousing\TP.Base\obj\Release\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\bin\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\bin\Debug\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\TP.Base.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\TP.Base.Splash.SplashForm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\TP.Base.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\ManualWarehousing\TP.Base\obj\Debug\TP.Base.pdb

@@ -1,0 +1,19 @@
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\PoInvServer.exe
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\PoInvServer.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\Nancy.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Object.BackEnd.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Object.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Database.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Object.BackEnd.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Object.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\Nancy.xml
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Database.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\obj\x86\Debug\PoInvServer.exe
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\obj\x86\Debug\PoInvServer.pdb
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Base.dll
+C:\Users\briandonorfio\documents\checkout\c#\PoInvServer\PoInvServer\bin\Debug\TP.Base.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\PoInvServer\PoInvServer\obj\x86\Debug\PoInvServer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\PoInvServer\PoInvServer\obj\x86\Debug\PoInvServer.pdb

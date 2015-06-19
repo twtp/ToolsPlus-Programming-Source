@@ -1,0 +1,13 @@
+C:\Users\MPGMOFO\Documents\ToolsPlusWarehouse\Code39_Barcode\Code39_Barcode\bin\Debug\Code39_Barcode.exe
+C:\Users\MPGMOFO\Documents\ToolsPlusWarehouse\Code39_Barcode\Code39_Barcode\bin\Debug\Code39_Barcode.pdb
+C:\inetpub\wwwroot\barcode.3X3.exe
+C:\inetpub\wwwroot\barcode.3X3.pdb
+C:\Users\MPGMOFO\Documents\ToolsPlusWarehouse\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.exe
+C:\Users\MPGMOFO\Documents\ToolsPlusWarehouse\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\Code39_Barcode\bin\Debug\barcode.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\Code39_Barcode\bin\Debug\barcode.3X3.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Code39_Barcode\Code39_Barcode\obj\x86\Debug\Code39_Barcode.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Script Transcodings\WWWROOT\Code39_Barcode\Code39_Barcode\obj\x86\Debug\barcode.3X3.pdb

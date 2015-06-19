@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\bin\Debug\masterCatItemsInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\bin\Debug\masterCatItemsInserter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\bin\Debug\masterCatItemsInserter.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\bin\Debug\Renci.SshNet.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\MasterCatItemsInserter\masterCatItemsInserter\masterCatItemsInserter\obj\x86\Debug\masterCatItemsInserter.csprojResolveAssemblyReference.cache

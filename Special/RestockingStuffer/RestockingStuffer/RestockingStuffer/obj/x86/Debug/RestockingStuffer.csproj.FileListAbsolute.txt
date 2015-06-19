@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\bin\Debug\RestockingStuffer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\bin\Debug\RestockingStuffer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\obj\x86\Debug\RestockingStuffer.csproj.ResolveComReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\RestockingStuffer\RestockingStuffer\RestockingStuffer\bin\Debug\RestockingStuffer.exe.config

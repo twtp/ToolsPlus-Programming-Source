@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\bin\Debug\SearsAttributeMapper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\bin\Debug\SearsAttributeMapper.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\obj\x86\Debug\SearsAttributeMapper.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\obj\x86\Debug\SearsAttributeMapper.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\obj\x86\Debug\SearsAttributeMapper.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\obj\x86\Debug\SearsAttributeMapper.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\SearsAttributeMapping\SearsAttributeMapper\SearsAttributeMapper\obj\x86\Debug\SearsAttributeMapper.pdb

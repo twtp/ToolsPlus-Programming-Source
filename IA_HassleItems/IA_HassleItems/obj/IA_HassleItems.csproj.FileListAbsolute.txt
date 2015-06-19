@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\bin\Debug\IA_HassleItems.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\bin\Debug\IA_HassleItems.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\IA_HassleItems.IA_HasslesFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\IA_HassleItems.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\IA_HassleItems.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\IA_HassleItems.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\IA_HassleItems\IA_HassleItems\obj\Debug\IA_HassleItems.pdb

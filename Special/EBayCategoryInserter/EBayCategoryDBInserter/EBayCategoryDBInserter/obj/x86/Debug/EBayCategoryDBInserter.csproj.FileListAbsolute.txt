@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\bin\Debug\EBayCategoryDBInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\bin\Debug\EBayCategoryDBInserter.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\obj\x86\Debug\EBayCategoryDBInserter.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\obj\x86\Debug\EBayCategoryDBInserter.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\obj\x86\Debug\EBayCategoryDBInserter.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\obj\x86\Debug\EBayCategoryDBInserter.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayCategoryInserter\EBayCategoryDBInserter\EBayCategoryDBInserter\obj\x86\Debug\EBayCategoryDBInserter.pdb

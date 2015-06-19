@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\bin\Debug\CompetitorLister.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\bin\Debug\CompetitorLister.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.competitorFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\CompetitorLister\CompetitorLister\CompetitorLister\obj\x86\Debug\CompetitorLister.csprojResolveAssemblyReference.cache

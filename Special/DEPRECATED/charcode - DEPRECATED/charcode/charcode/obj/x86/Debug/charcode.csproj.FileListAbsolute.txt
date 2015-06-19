@@ -1,0 +1,7 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\obj\x86\Debug\charcode.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\obj\x86\Debug\charcode.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\obj\x86\Debug\charcode.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\bin\Debug\charcode.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\bin\Debug\charcode.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\obj\x86\Debug\charcode.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\charcode\charcode\charcode\obj\x86\Debug\charcode.pdb

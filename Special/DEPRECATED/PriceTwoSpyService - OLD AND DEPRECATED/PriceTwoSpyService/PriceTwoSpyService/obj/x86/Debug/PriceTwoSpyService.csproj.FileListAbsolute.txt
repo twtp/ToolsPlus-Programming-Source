@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\bin\Debug\PriceTwoSpyService.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\bin\Debug\PriceTwoSpyService.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.guiFrm.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PriceTwoSpyService\PriceTwoSpyService\PriceTwoSpyService\obj\x86\Debug\PriceTwoSpyService.csprojResolveAssemblyReference.cache

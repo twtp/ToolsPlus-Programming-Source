@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SQLCalls.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EBayTransactionInfo.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EBayTransactionInfo.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EBayTransactionInfo.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EBayTransactionInfo.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\TXIDtoSO\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\EBayTransactionInfo.pdb

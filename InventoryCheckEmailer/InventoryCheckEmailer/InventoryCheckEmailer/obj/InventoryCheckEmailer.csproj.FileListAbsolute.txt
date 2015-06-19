@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\InventoryCheckEmailer.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\InventoryCheckEmailer.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\InventoryCheckEmailer.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\bin\Debug\InventoryCheckEmailer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\bin\Debug\InventoryCheckEmailer.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\InventoryCheckEmailer.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\InventoryCheckEmailer\InventoryCheckEmailer\InventoryCheckEmailer\obj\Debug\InventoryCheckEmailer.pdb

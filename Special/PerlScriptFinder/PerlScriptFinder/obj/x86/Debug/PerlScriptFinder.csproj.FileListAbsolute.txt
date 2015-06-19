@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\obj\x86\Debug\PerlScriptFinder.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\obj\x86\Debug\PerlScriptFinder.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\obj\x86\Debug\PerlScriptFinder.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\bin\Debug\PerlScriptFinder.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\bin\Debug\PerlScriptFinder.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\obj\x86\Debug\PerlScriptFinder.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\obj\x86\Debug\PerlScriptFinder.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\PerlScriptFinder\PerlScriptFinder\bin\Debug\PerlScriptFinder.exe.config

@@ -1,0 +1,10 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\bin\Debug\tickerTester.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\bin\Debug\tickerTester.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\bin\Debug\TPTickerCtl.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\bin\Debug\TPTickerCtl.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\ShippingMonitor\tickerTester\tickerTester\obj\x86\Debug\tickerTester.pdb

@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\AlgorithmGenerator\AlgorithmGenerator\AlgorithmGenerator\obj\x86\Debug\AlgorithmGenerator.csproj.ResolveComReference.cache

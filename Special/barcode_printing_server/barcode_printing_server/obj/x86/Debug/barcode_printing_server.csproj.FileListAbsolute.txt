@@ -1,0 +1,8 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\bin\Debug\barcode_printing_server.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\bin\Debug\barcode_printing_server.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\bin\Debug\barcode_printing_server.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\obj\x86\Debug\barcode_printing_server.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\obj\x86\Debug\barcode_printing_server.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\obj\x86\Debug\barcode_printing_server.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\bin\Debug\TP.Base.dll
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\barcode_printing_server\barcode_printing_server\bin\Debug\TP.Base.pdb

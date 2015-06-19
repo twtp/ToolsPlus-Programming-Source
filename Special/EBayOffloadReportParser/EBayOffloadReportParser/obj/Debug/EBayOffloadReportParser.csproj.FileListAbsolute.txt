@@ -1,0 +1,9 @@
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\bin\Debug\EBayOffloadReportParser.exe.config
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\bin\Debug\EBayOffloadReportParser.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\bin\Debug\EBayOffloadReportParser.pdb
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.csprojResolveAssemblyReference.cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.Form1.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.Properties.Resources.resources
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.csproj.GenerateResource.Cache
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.exe
+C:\Users\tomwestbrook\Documents\ToolsPlus Programming Source\Special\EBayOffloadReportParser\EBayOffloadReportParser\obj\Debug\EBayOffloadReportParser.pdb
